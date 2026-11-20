@@ -1,0 +1,13 @@
+{
+  "name": "http-content-negotiation-lab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A local interactive lab for HTTP Accept media-type negotiation.",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
